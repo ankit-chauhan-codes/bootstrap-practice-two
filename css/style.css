@@ -83,3 +83,14 @@ html{
 
 
 
+
+
+/*custom CSS*/
+
+h1{
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 3rem;
+    color: var(--secondary-font);
+}
+
