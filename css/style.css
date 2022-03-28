@@ -42,7 +42,7 @@ ol{
 /*variables*/
 :root{
     --primary-color: #A82C48;
-    --seconadary-color: #43121d;
+    --secondary-color: #43121d;
     --third-color: #f98169;
     --white-color: #fff;
     --text-color: #555;
@@ -101,7 +101,7 @@ h2{
     text-transform: capitalize;
     font-family: var(--secondary-font);
     line-height: 3rem;
-    color: var(--seconadary-color)
+    color: var(--secondary-color)
 }
 
 
@@ -110,10 +110,19 @@ h4{
     font-weight: 800;
     text-transform: capitalize;
     font-family: var(--secondary-font);
-    color: var(--seconadary-color);
+    color: var(--secondary-color);
     margin-bottom: 0.5rem;
 }
 
+
+h5{
+    color: var(--secondary-color);
+    font-family: var(--secondary-font);
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
 
 
 
