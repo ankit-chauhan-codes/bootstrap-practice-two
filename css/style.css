@@ -94,3 +94,11 @@ h1{
     color: var(--secondary-font);
 }
 
+
+h2{
+    font-size: 2.25rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: var(--secondary-font);
+    line-height: 3rem;
+}
