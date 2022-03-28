@@ -31,6 +31,13 @@ a:hover{
 }
 
 
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+}
+
+
 
 /*variables*/
 :root{
@@ -73,3 +80,6 @@ html{
 ::-webkit-scrollbar-thumb{
     background: var(--primary-color);
 }
+
+
+
