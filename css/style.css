@@ -54,6 +54,22 @@ body{
 }
 
 
+
+
 html{
     scroll-behavior: smooth;
+}
+
+/*custom scrollbar*/
+
+::-webkit-scrollbar{
+    width: 0.625rem;
+}
+
+::-webkit-scrollbar-track{
+    background: var(--white-color);
+}
+
+::-webkit-scrollbar-thumb{
+    background: var(--primary-color);
 }
