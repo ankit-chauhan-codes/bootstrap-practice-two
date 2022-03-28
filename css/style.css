@@ -3,6 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 
+
+  /*  Global Styling */
+  
+
 *,
 *:after,
 *:before{
@@ -84,8 +88,6 @@ html{
 
 
 
-
-/*custom CSS*/
 
 h1{
     font-size: 3rem;
@@ -208,3 +210,4 @@ p{
     color: var(--white-color)
 }
 
+/*  Global Styling */
