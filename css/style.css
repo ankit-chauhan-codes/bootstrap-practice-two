@@ -236,4 +236,12 @@ p{
     border: unset;
     box-shadow: none;
 }
+
+.nav-link{
+    font-size: 0.9375;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: var(--primary-color);
+    letter-spacing: 1px;
+}
 /*  Header Styling */
