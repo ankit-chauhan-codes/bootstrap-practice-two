@@ -186,4 +186,12 @@ p{
     border-color: var(--primary-color);
 }
 
+/*buttons*/
+
+
+
+.wrapper{
+    padding-top: 8.25rem;
+    padding-bottom: 8.25rem;
+}
 
