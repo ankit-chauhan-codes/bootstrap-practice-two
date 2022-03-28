@@ -44,3 +44,9 @@ a:hover{
     --primary-font: 'Roboto',sans-serif;
     --secondary-font: 'Quicksand',sans-serif;
 }
+
+
+
+html{
+    scroll-behavior: smooth;
+}
