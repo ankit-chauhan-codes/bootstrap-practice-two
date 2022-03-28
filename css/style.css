@@ -230,4 +230,10 @@ p{
     padding: 0 0.625rem;
     transition: all 200ms linear;
 }
+
+.navbar-toggler:focus{
+    outline: unset;
+    border: unset;
+    box-shadow: none;
+}
 /*  Header Styling */
