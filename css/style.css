@@ -47,6 +47,13 @@ a:hover{
 
 
 
+body{
+    font-family: var(--primary-font);
+    font-size: 100%;
+    font-weight: 400;
+}
+
+
 html{
     scroll-behavior: smooth;
 }
