@@ -201,3 +201,10 @@ p{
     margin: auto;
 }
 
+
+.counter-section h2,
+.testimonial-section h2,
+.book-food-text h2{
+    color: var(--white-color)
+}
+
