@@ -284,5 +284,8 @@ p{
     padding: 2.5rem 0;
 }
 
-
+.counter-section p{
+    color: var(--white-color);
+    text-transform: uppercase;
+}
 /* Counter */
