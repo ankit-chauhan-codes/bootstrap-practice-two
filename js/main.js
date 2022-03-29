@@ -38,3 +38,15 @@ window.onscroll = function () {
 //active navbar//
 
 
+
+//nav hide//
+
+let navBar = document.querySelectorAll('.nav-link');
+let navCollapse = document.querySelector('.navbar-collapse.collapse');
+navBar.forEach(fuction(a){
+    a.addEventListener("click", function(){
+        navCollapse.classList.remove("show");
+    })
+})
+//nav hide//
+
