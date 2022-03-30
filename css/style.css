@@ -118,7 +118,7 @@ h4{
 
 
 h5{
-    color: var(--secondary-color);
+    color: var(--primary-color);
     font-family: var(--secondary-font);
     text-transform: capitalize;
     font-size: 1rem;
@@ -238,7 +238,7 @@ p{
 }
 
 .nav-link{
-    font-size: 0.9375;
+    font-size: 0.9375rem;
     font-weight: 600;
     text-transform: capitalize;
     color: var(--primary-color);
@@ -339,7 +339,7 @@ p{
 
 .story-section{
     width: 100%;
-    height: 28.125rem;
+    height: 30.125rem;
     background: url(../images/bg/bg-2.jpg) no-repeat center;
     background-size: cover;
     padding-top: 100px;
@@ -355,6 +355,10 @@ p{
 
 
 /* Explore Food Section */
+
+.explore-food{
+    padding-top: 1rem;
+}
 
 .explore-food .card{
     border: none;
@@ -414,7 +418,7 @@ p{
     bottom: -2.8125rem;
 }
 
-.testimonial-section .carousel-indicators .button{
+.testimonial-section .carousel-indicators button{
     width: 15px;
     height: 15px;
     outline: none;
@@ -424,7 +428,7 @@ p{
     opacity: 0.2;
 }
 
-.testimonial-section .carousel-indicators .button.active{
+.testimonial-section .carousel-indicators button.active{
     opacity: 1;
 }
 /* Testimonial Section */
@@ -470,7 +474,7 @@ p{
     border: none;
     border-radius: 0;
     background: transparent;
-    border: 0.1875rem solid var(--text-color);
+    border: 0.1875rem solid var(--text-gray);
     color: var(--black-color);
     font-weight: 700;
 }
@@ -504,7 +508,7 @@ p{
 .footer .footer-social a i{
     font-size: 1.5rem;
     color: var(--white-color);
-    padding: 0 1rem;
+    padding:0 1rem;
 }
 
 
