@@ -482,3 +482,30 @@ p{
     border-color: var(--primary-color);
 }
 /* newsletter Section */
+
+
+
+/* footer */
+
+.footer{
+    background: var(--primary-color);
+}
+
+.footer .footer-link{
+    font-size: 1rem;
+    color: var(--white-color);
+    padding: 0 1.875rem;
+}
+
+.footer .footer-link:hover{
+    color: var(--white-color) !important;
+}
+
+.footer .footer-social a i{
+    font-size: 1.5rem;
+    color: var(--white-color);
+    padding: 0 1rem;
+}
+
+
+/* footer */
